@@ -1,1 +1,4 @@
-# Shoes_App
+# Shoes_App 
+ Libraries 
+ -bootstrap
+ -google fonts
